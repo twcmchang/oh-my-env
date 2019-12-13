@@ -1,0 +1,7 @@
+[user]
+	email = twcmchang@gmail.com
+	name = twcmchang
+[alias]
+	last = log -1 HEAD
+	unadd = reset HEAD --
+	recommit = commit --amend
