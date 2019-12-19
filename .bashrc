@@ -37,6 +37,10 @@ alias vimrc='vim ~/.vimrc'
 alias bashrc='vim ~/.bashrc'
 alias gitrc='vim ~/.gitconfig'
 
+# vpn
+alias vpnon="networksetup -connectpppoeservice"
+alias vpnoff="networksetup -disconnectpppoeservice"
+
 # ssh
 alias sshtheta1='ssh cmchang@140.109.16.52'
 alias sshtheta3='ssh cmchang@140.109.16.12'
