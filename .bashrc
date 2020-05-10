@@ -37,6 +37,9 @@ alias vimrc='vim ~/.vimrc'
 alias bashrc='vim ~/.bashrc'
 alias gitrc='vim ~/.gitconfig'
 
+# Shortcuts to compile c codes
+alias g++11='clang++ -std=c++11 -stdlib=libc++' 
+
 # vpn
 alias vpnon="networksetup -connectpppoeservice"
 alias vpnoff="networksetup -disconnectpppoeservice"
@@ -44,4 +47,6 @@ alias vpnoff="networksetup -disconnectpppoeservice"
 # ssh
 alias sshtheta1='ssh cmchang@140.109.16.52'
 alias sshtheta3='ssh cmchang@140.109.16.12'
+alias ssheuler='ssh cmchang@euler.wacc.wisc.edu'
+alias sftpeuler='sftp cmchang@euler.wacc.wisc.edu'
 

@@ -9,7 +9,6 @@
 	br = branch
 	ci = commit
 	co = checkout
-	pu = push
 	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 	cob = checkout -b
 	undo = reset HEAD~1 --mixed
