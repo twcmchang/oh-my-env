@@ -38,7 +38,7 @@ alias bashrc='vim ~/.bashrc'
 alias gitrc='vim ~/.gitconfig'
 
 # Shortcuts to compile c codes
-alias g++11='clang++ -std=c++11 -stdlib=libc++' 
+alias g++14='g++ -std=c++14 -stdlib=libc++' 
 
 # vpn
 alias vpnon="networksetup -connectpppoeservice"
