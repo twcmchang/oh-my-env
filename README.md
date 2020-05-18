@@ -43,3 +43,15 @@ eval "$(pyenv virtualenv-init -)"
 ### Reference 
 - https://github.com/pyenv/pyenv
 - https://github.com/pyenv/pyenv-virtualenv
+
+----
+
+## Visual Studio Code
+### Extensions
+- C/C++
+- C++ Intellisense
+- Clang-Format
+- vscode-cudacpp
+- Syntax Highlighter
+- Code Runner
+- Python
