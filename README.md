@@ -1,6 +1,7 @@
 # oh-my-env
 - store various environment configurations used in my personal laptop.
 - take notes on how to manage different Software versions
+- on branch Mac15
 
 ### Manage Python enviroments by pyenv
 ```bash
